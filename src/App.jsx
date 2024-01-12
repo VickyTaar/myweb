@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "victor-ndiritu-09109a220",
   medium: "",
   twitter: "Vicky_taar",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
