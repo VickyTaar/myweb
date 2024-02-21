@@ -39,8 +39,7 @@ const projectList = [
   {
     title: "Unveiling the Vision: The Story of Elysian's Inception",
     description:
-      "
- Discover the story behind Elysian's inspiration—fueled by the commitment to data protection",
+      "Discover the story behind Elysian's inspiration—fueled by the commitment to data protection",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
