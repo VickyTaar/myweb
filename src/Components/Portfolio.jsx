@@ -37,9 +37,10 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Unveiling the Vision: The Story of Elysian's Inception",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "
+ Discover the story behind Elysian's inspiration—fueled by the commitment to data protection",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
